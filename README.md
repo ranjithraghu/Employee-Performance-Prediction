@@ -262,7 +262,7 @@ This project demonstrates how Machine Learning and HR Analytics can help organiz
 
 # Author
 
-## Ranjith Raghu
+## Ranjith T
 
 Aspiring Data Scientist skilled in:
 - Python
